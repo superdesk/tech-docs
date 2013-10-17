@@ -13,3 +13,8 @@ Live Blog
 ----------
 
 * `Live Blog RESTful API <http://docs.sourcefabric.org/projects/live-blog-restful-api/>`_
+
+Other Manuals
+-----------------------
+
+Find more manuals and user guides for Sourcefabric software such as Live Blog, Airtime and Newscoop at `Sourcefabric Manuals <http://www.sourcefabric.org/en/resources/manuals/>`_.
