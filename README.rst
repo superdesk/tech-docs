@@ -14,6 +14,11 @@ Live Blog
 
 * `Live Blog RESTful API <http://docs.sourcefabric.org/projects/live-blog-restful-api/>`_
 
+Newscoop
+----------
+
+* `Newscoop Plugins <http://docs.sourcefabric.org/projects/newscoop-plugins>`_
+
 Other Manuals
 -----------------------
 
