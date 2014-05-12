@@ -9,6 +9,11 @@ Ally-Py
 * `Ally-Py-Docs <http://docs.sourcefabric.org/projects/ally-py/>`_
 * `Ally-Py Architectural Overview  <http://docs.sourcefabric.org/projects/ally-py-architectural-overview/>`_
 
+Booktype
+---------
+
+* `EBookLib <http://docs.sourcefabric.org/projects/ebooklib/>`
+
 Live Blog
 ----------
 
