@@ -12,7 +12,7 @@ Ally-Py
 Booktype
 ---------
 
-* `EBookLib <http://docs.sourcefabric.org/projects/ebooklib/>`
+* `EBookLib <http://docs.sourcefabric.org/projects/ebooklib/>`_
 
 Live Blog
 ----------
