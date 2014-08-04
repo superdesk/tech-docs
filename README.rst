@@ -17,6 +17,8 @@ Newscoop
 ----------
 
 * `Newscoop Plugins <http://docs.sourcefabric.org/projects/newscoop-plugins>`_
+* `Newscoop Cookbook <http://docs.sourcefabric.org/projects/newscoop-cookbook>`_
+* `Newscoop RESTful API <http://docs.sourcefabric.org/projects/newscoop-restful-api>`_
 
 Other Manuals
 -----------------------
